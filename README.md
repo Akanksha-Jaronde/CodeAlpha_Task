@@ -204,7 +204,7 @@ This project is licensed under the [MIT License](LICENSE)
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by **SURYANATH TRIPATHY** 🤞 
+Made with ❤️ by **Akanksha Jaronde** 🤞 
 Feel free to connect, fork, or build upon this!
 
 ---
